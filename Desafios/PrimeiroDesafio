@@ -1,3 +1,8 @@
+//Desafio Centro Pokemon: Crie um código para armazenar o máximo de informações possível dos pokemon
+//da imagem ao lado e ao final, para cada um, exiba uma mensagem de saída escrita o nome do pokemon 
+//concatenado com "Cadastrado com sucesso"
+
+
 let idPokemon = [
   ["Poochyena", "Lvl 2", "M", "HP 13/13"],
 ["Zigzagoon", "Lvl 2", "F", "HP 13/13"],
